@@ -12,3 +12,4 @@ Para realizar esta práctica necesitas lo siguiente:
 Requisitos previos Para poder hacer uso de este repositorio se requiere entrar a la plataforma de WOKWI.
 
 1. Abrir la terminal de programación y colocar el siguiente código:
+![https://github.com/AdalGuadarrama/PRACTICA-NIVEL-DE-AGUA/blob/main/AGUA1.1.png]
