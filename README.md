@@ -12,7 +12,7 @@ Para realizar esta práctica se necesita lo siguiente:
 3. UN SENSOR DE DISTANCIA ULTRASONICO
 
 ##### Instrucciones
-Requisitos previos Para poder hacer uso de este repositorio se requiere entrar a la plataforma de WOKWI.
+Requisitos previos para poder hacer uso de este repositorio se requiere entrar a la plataforma de WOKWI.
 
 1. Abrir la terminal de programación y colocar el siguiente código:
 ![.](https://github.com/AdalGuadarrama/PRACTICA-NIVEL-DE-AGUA/blob/main/AGUA1.1.png)
